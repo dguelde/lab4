@@ -1,2 +1,2 @@
 # lab4
-Lab 4 public repo
+CSCI 3308 Lab 4
